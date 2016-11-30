@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar, .navbar-default, .navbar-header {
+  background-color: black;
+  margin-bottom: 0px;
+  border: none;
+}
+.navbar-collapse, .collapse {
+  float: right;
+}
+#myCarousel {
+margin-top: 50px;
+width: 100vw;
+margin-left: -20px;
+}
+
+#myCarousel img {
+  width: 100%;
+  height: 700px;
+}
+
+.jumbotron {
+  padding: 10px;
+}
+button {
+  padding: 10px;
+  background-color: plum;
+  font-size: 1.3em;
+  border-radius: 10px;
+}
+h2 {
+  white-space: nowrap;
+}
+
+img {
+  width: 300px;
+}
